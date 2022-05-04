@@ -1,10 +1,29 @@
-.container{
-    display: flex;
-    justify-content: center;
+body{
+    background-color: white;
 }
-
+.container h1{
+    color:red;
+}
+.container{
+    text-align: center;
+}
+.content{
+    float:left;
+}
+.content-index{
+    float:center;
+}
 .img{
     height: 200px;
-    width: 200px;
-    
+    width: 200px; 
+}
+h3{
+    color:darkorchid;
+}
+h4{
+    color:goldenrod;
+}
+
+li{
+    list-style-position: inside;
 }
