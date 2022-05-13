@@ -4,12 +4,10 @@ html{
 .container h1{
     color:red;  
 }
-.head{
-  
-}
+
 .container{
     text-align: center;
-    height: 940px;
+    min-height: 940px;
     max-width: 60%;
     margin-left: auto;
     margin-right: auto;
