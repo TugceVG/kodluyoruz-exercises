@@ -1,4 +1,4 @@
-**This file includes Javascript homework for [KODLUYORUZ](https://www.kodluyoruz.org/) Preparation Bootcamp Program of Front-end Development.**
+**This file includes JavaScript homework1 for [KODLUYORUZ](https://www.kodluyoruz.org/) Preparation Bootcamp Program of Front-end Development.**
 
 - This is a project for [Patika.dev](https://www.patika.dev/)
 
